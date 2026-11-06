@@ -1,5 +1,6 @@
 
 /* Universal Reset */
+
 * {
     margin: 0;
     padding: 0;
@@ -7,6 +8,7 @@
 }
 
 /* Website Defaults */
+
 body {
     font-family: Arial, sans-serif;
     background-color: #ffffff;
@@ -14,12 +16,14 @@ body {
 }
 
 /* Remove default link styling */
+
 a {
     text-decoration: none;
     color: inherit;
 }
 
 /* Remove default list styling */
+
 ul {
     list-style: none;
 }
